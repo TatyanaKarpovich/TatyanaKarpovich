@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TatyanaKarpovich
 - 👀 I’m interested in web
-- 🌱 I’m currently learning html,css, git, pug,
+- 🌱 I’m currently learning html,css,git,pug,scss
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
